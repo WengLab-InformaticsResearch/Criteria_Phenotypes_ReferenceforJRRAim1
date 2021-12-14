@@ -1,5 +1,5 @@
 # Criteria_Phenotypes_to_Inform_Effects
-This repository just contains codes for phenotypes used in the criteria tradeoff exploration project. The codes are in concept_id format used by the OMOP CDM standard.
+This repository just contains codes for phenotypes used in an exploration project that examines the effects of different criteria combinations. The codes are in concept_id format used by the OMOP CDM standard
 
 The files included are as follows:
 * Supplement Material Codes RR LymphomaLeukemia = codes for the phenotypes used for the r/r lymphoma/leukemia trial set
